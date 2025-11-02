@@ -1,0 +1,9 @@
+Hello World
+This is a test file
+HELLO everyone
+Testing grep utility
+Another line here
+Test pattern matching
+hello again
+Regular expressions work
+Final line of test
